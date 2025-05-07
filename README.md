@@ -28,7 +28,7 @@ This Python script reads multiple `.tsv` files containing temperature data and g
 1. Place your `.tsv` files in the script's directory.
 2. Run the script:
    ```bash
-   python your_script_name.py
+   python bokeh.py
    ```
 3. Open the generated HTML files in a browser to view the dashboards.
 
